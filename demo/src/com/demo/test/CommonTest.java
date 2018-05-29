@@ -24,7 +24,7 @@ public class CommonTest {
 		System.out.println(aString);
 	}
 
-	public void test1() { 
+	public void test1() {
 	}
 }
 
