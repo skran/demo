@@ -25,6 +25,5 @@ public class CommonTest {
 	}
 
 	public void test1() {
-		
 	}
 }
